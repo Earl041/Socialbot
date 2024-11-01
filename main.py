@@ -4,7 +4,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, ParseMo
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackQueryHandler, CallbackContext
 
 # Token bot dan ID owner
-BOT_TOKEN = '7217510375:AAHdMM3j3Z11vXp2WecBoAnGYB9bjVfXS0o'
+BOT_TOKEN = '7217510375:AAHr0T-ZKGGZPsgRgdTBKJw7lRX1Fj3S7Bg'
 OWNER_ID = '5357845454'
 
 # Load atau inisialisasi databot.json
